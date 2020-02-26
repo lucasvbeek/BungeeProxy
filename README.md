@@ -1,3 +1,5 @@
+# This is a fork, only added github actions for compilation.
+
 # BungeeProxy
 
 BungeeProxy is a BungeeCord plugin that enables compatibility with HAProxy's PROXY v1 and v2 protocols.
